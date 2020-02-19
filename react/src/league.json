@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "key": 1,
+      "LeagueName": " Open",
+      "LeagueID": 1001
+    },
+    {
+      "id": 2,
+      "key": 2,
+      "LeagueName": "Barcelona Open",
+      "LeagueID": 1002
+    },
+    {
+      "id": 3,
+      "key": 3,
+      "LeagueName": "Halle Open",
+      "LeagueID": 1003
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "LeagueName": "German Open",
+      "LeagueID": 1004
+    },
+    {
+      "id": 5,
+      "key": 5,
+      "LeagueName": "Vienna Open",
+      "LeagueID": 1005
+    },
+    {
+      "id": 6,
+      "key": 6,
+      "LeagueName": "Swiss Indoors",
+      "LeagueID": 1006
+    },
+    {
+      "id": 7,
+      "key": 7,
+      "LeagueName": "Queen's Club Championships",
+      "LeagueID": 1007
+    },
+    {
+      "id": 8,
+      "key": 8,
+      "LeagueName": "Sofia Open",
+      "LeagueID": 2001
+    },
+    {
+      "id": 9,
+      "key": 9,
+      "LeagueName": "Hungarian Open",
+      "LeagueID": 2002
+    },
+    {
+      "id": 10,
+      "key": 10,
+      "LeagueName": "Estoril Open",
+      "LeagueID": 2003
+    },
+    {
+      "id": 11,
+      "key": 11,
+      "LeagueName": "Geneva Open",
+      "LeagueID": 2004
+    },
+    {
+      "id": 12,
+      "key": 12,
+      "LeagueName": "Lyon Open",
+      "LeagueID": 2005
+    },
+    {
+      "id": 13,
+      "key": 13,
+      "LeagueName": "Stuttgart Open",
+      "LeagueID": 2006
+    },
+    {
+      "id": 14,
+      "key": 14,
+      "LeagueName": "Eastbourne International",
+      "LeagueID": 2007
+    },
+    {
+      "id": 15,
+      "key": 15,
+      "LeagueName": "Swedish Open",
+      "LeagueID": 2008
+    },
+    {
+      "id": 16,
+      "key": 16,
+      "LeagueName": "Croatia Open",
+      "LeagueID": 2009
+    },
+    {
+      "id": 17,
+      "key": 17,
+      "LeagueName": "Swiss Open",
+      "LeagueID": 2100
+    },
+    {
+      "id": 18,
+      "key": 18,
+      "LeagueName": "Stockholm Open",
+      "LeagueID": 3005
+    },
+    {
+      "id": 19,
+      "key": 19,
+      "LeagueName": "European Open",
+      "LeagueID": 3006
+    },
+    {
+      "id": 20,
+      "key": 20,
+      "LeagueName": "Kremlin Cup",
+      "LeagueID": 3007
+    }
+  ]
